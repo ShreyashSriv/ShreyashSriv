@@ -1,9 +1,10 @@
 # 💫 About Me:
 I'm **Shreyash Srivastava**, a passionate **Full Stack Web Developer** who enjoys building modern, interactive, and high-performance web applications.<br>I like working with both **frontend and backend technologies**, creating responsive user interfaces and efficient server-side systems. I continuously improve my skills by building projects and exploring new technologies in web development and cloud.<br><br>**Languages:** HTML, CSS, JavaScript, Python
-**Frontend:** React.js, Tailwind CSS, Three.js, GSAP**<br>
-**Backend:** Node.js, Express.js<br>
-**Databases:** MySQL, PostgreSQL, MongoDB<br>
-**Cloud & Deployment:** AWS, Azure, Vercel<**Tools:** Git, GitHub, VS Code<br>
+**Frontend:**  React.js, Tailwind CSS, Three.js, GSAP**<br>
+**Backend:**  Node.js, Express.js<br>
+**Databases:**  MySQL, PostgreSQL, MongoDB<br>
+**Cloud & Deployment:**  AWS, Azure, Vercel<br>
+**Tools:**  Git, GitHub, VS Code<br>
 
 
 # 💻 Tech Stack:
